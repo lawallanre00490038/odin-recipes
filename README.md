@@ -1,1 +1,1 @@
-This is a file for odin-recipe
+This is a beginner's HTML pages for showcasing recipes
